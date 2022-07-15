@@ -1,0 +1,17 @@
+.container-grid{
+
+    border: 1px solid black;
+    height: 12rem;
+    width: 20rem;
+    
+    
+}
+
+.container-grid:hover{
+    background-color: blue;
+
+}
+
+.container{
+    display: flex;
+}
